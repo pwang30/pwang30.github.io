@@ -27,7 +27,7 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
 
 **Conference papers (peer-reviewed)**
 - Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides.  
-&emsp; Published in  _2nd Asia Conference on Electrical, Power and Computer Engineering &emsp; (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
+&emsp; Published in  _2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
 - Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids.  
 &emsp; Published in _Annual Conference of China Electrotechnical Society (ACCES), 2022._ [Link](https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76)
 
