@@ -16,7 +16,6 @@ News
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to [Dr. Xi](https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate) and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.
 - **07.08.2024**. First time using Overleaf to translate my master's [thesis](https://doi.org/10.6084/m9.figshare.26508949.v2) into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.
 
-# ![aa](https://github.com/pwang30/pwang30.github.io/blob/master/images/fig_kmeans_q4.png){: width="30" height="20"}
 
 Publications
 ======
