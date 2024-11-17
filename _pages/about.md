@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in Power Systems at the [Technical University of Madrid (UPM)](https://www.upm.es/internacional), supervised by [Prof. Luis Badesa](https://badber.github.io/). My doctoral research line is: Power system economics with stability guarantees and resilience enhancement. I received my master's and bachelor's degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications (CQUPT)](https://english.cqupt.edu.cn/), supervised by [Prof. Yiwei Ma](https://orcid.org/0000-0003-2803-1637).
 
 
-News
+:calendar:News
 ======
 - **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future！
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to [Dr. Xi](https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate) and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.
@@ -21,15 +21,15 @@ Publications
 ======
 **Journal papers**
 - A Modified K-means Clustering Algorithm Based on FMF-GS-DD.  
-&emsp;  _Engineering Letters, 2023. (Q4)_ [Link](https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf)
+&emsp;  Published in _Engineering Letters, 2023. (Q4)_ [Link](https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf)
 - Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means.  
-&emsp;  _IET Generation, Transmission & Distribution, 2023. (Q3)_ [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052)
+&emsp;  Published in _IET Generation, Transmission & Distribution, 2023. (Q3)_ [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052)
 
 **Conference papers (peer-reviewed)**
 - Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides.  
-&emsp;  _2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
+&emsp; Published in  _2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
 - Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids.  
-&emsp; _Annual Conference of China Electrotechnical Society (ACCES), 2022._ [Link](https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76)
+&emsp; Published in _Annual Conference of China Electrotechnical Society (ACCES), 2022._ [Link](https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76)
 
 Projects & Funding
 ====== 
