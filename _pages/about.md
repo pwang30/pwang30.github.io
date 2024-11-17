@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/internacional"> Technical University of Madrid (UPM)</a>, supervised by [Prof. Luis Badesa](https://badber.github.io/). My doctoral research line is: Power system economics with stability guarantees and resilience enhancement. I received my master's and bachelor's degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications (CQUPT)](https://english.cqupt.edu.cn/), supervised by [Prof. Yiwei Ma](https://orcid.org/0000-0003-2803-1637).
+I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/internacional"> Technical University of Madrid (UPM) </a>, supervised by [Prof. Luis Badesa](https://badber.github.io/). My doctoral research line is: Power system economics with stability guarantees and resilience enhancement. I received my master's and bachelor's degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications (CQUPT)](https://english.cqupt.edu.cn/), supervised by [Prof. Yiwei Ma](https://orcid.org/0000-0003-2803-1637).
 
 
 📅News
