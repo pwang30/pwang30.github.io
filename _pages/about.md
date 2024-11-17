@@ -40,13 +40,20 @@ Projects & Funding
 Awards & Honors
 ======
 **Competitions**  
-- The 16th iCAN Innovation Contest, First prize, 2022  
-- “Hua Shu Cup” the 3rd National University Students Math Modeling Competition, Third prize, 2022  
-- “CSEE Cup” 2022 National University Students Electrical Math Modeling Competition, Third prize, 2022  
-- “China Youth Cup” the 5th National University Students Math Modeling Competition, Second prize, 2022  
-- 2021 Asia and Pacific Mathematical Contest in Modeling Certificate of Achievement, Third prize, 2022  
-- “Huawei Cup” the 18th China Post-graduate Mathematical contest in Modeling, Third prize, 2021  
-- “Hua Shu Cup” the 2nd National University Students Math Modeling Competition, First prize, 2021 
+- The 16th iCAN Innovation Contest  
+&emsp; _First prize_, 2022  
+- “Hua Shu Cup” the 3rd National University Students Math Modeling Competition  
+&emsp; _Third prize_, 2022  
+- “CSEE Cup” 2022 National University Students Electrical Math Modeling Competition  
+&emsp; _Third prize_, 2022  
+- “China Youth Cup” the 5th National University Students Math Modeling Competition  
+&emsp; _Second prize_, 2022  
+- 2021 Asia and Pacific Mathematical Contest in Modeling  
+&emsp; _Third prize_, 2022  
+- “Huawei Cup” the 18th China Post-graduate Mathematical contest in Modeling  
+&emsp; _Third prize_, 2021  
+- “Hua Shu Cup” the 2nd National University Students Math Modeling Competition  
+&emsp; _First prize_, 2021 
 
 **Education**  
 - Third Class Academic Scholarship _(230 €)_, 2024  
