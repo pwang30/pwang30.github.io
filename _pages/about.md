@@ -49,9 +49,9 @@ Awards & Honors
 - “Hua Shu Cup” the 2nd National University Students Math Modeling Competition, First prize, 2021 
 
 **Education**  
-- Third Class Academic Scholarship (230 €), 2024  
+- Third Class Academic Scholarship _(230 €)_, 2024  
 - Outstanding Graduate Student, 2024  
 - Outstanding Graduate Student, 2022  
 - Outstanding School Staff: Monitor, 2022  
-- Special Academic Scholarship (2,600 €), 2022  
-- Special Academic Scholarship (2,600 €), 2021
+- Special Academic Scholarship _(2,600 €)_, 2022  
+- Special Academic Scholarship _(2,600 €)_, 2021
