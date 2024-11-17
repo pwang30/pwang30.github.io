@@ -16,7 +16,7 @@ News
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to [Dr. Xi](https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate) and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.
 - **07.08.2024**. First time using Overleaf to translate my master's [thesis](https://doi.org/10.6084/m9.figshare.26508949.v2) into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.
 
-![aa](https://github.com/pwang30/pwang30.github.io/blob/master/images/fig_kmeans_q4.png){: width="30" height="20"}
+#![aa](https://github.com/pwang30/pwang30.github.io/blob/master/images/fig_kmeans_q4.png){: width="30" height="20"}
 
 Publications
 ======
@@ -40,28 +40,28 @@ Projects & Funding
 Awards & Honors
 ======
 **Competitions**  
-- The 16th iCAN Innovation Contest  
-&emsp; _First prize_, 2022  
-- “Hua Shu Cup” the 3rd National University Students Math Modeling Competition  
-&emsp; _Third prize_, 2022  
-- “CSEE Cup” 2022 National University Students Electrical Math Modeling Competition  
-&emsp; _Third prize_, 2022  
-- “China Youth Cup” the 5th National University Students Math Modeling Competition  
-&emsp; _Second prize_, 2022  
-- 2021 Asia and Pacific Mathematical Contest in Modeling  
-&emsp; _Third prize_, 2022  
-- “Huawei Cup” the 18th China Post-graduate Mathematical contest in Modeling  
-&emsp; _Third prize_, 2021  
-- “Hua Shu Cup” the 2nd National University Students Math Modeling Competition  
-&emsp; _First prize_, 2021 
+- The 16th iCAN Innovation Contest, 2022  
+&emsp; _First prize_  
+- “Hua Shu Cup” the 3rd National University Students Math Modeling Competition, 2022  
+&emsp; _Third prize_  
+- “CSEE Cup” 2022 National University Students Electrical Math Modeling Competition, 2022  
+&emsp; _Third prize_  
+- “China Youth Cup” the 5th National University Students Math Modeling Competition, 2022  
+&emsp; _Second prize_  
+- 2021 Asia and Pacific Mathematical Contest in Modeling, 2022  
+&emsp; _Third prize_  
+- “Huawei Cup” the 18th China Post-graduate Mathematical contest in Modeling, 2021  
+&emsp; _Third prize_  
+- “Hua Shu Cup” the 2nd National University Students Math Modeling Competition, 2021  
+&emsp; _First prize_ 
 
 **Education**  
-- Third Class Academic Scholarship  
-&emsp; _(230 €)_, 2024  
+- Third Class Academic Scholarship, 2024  
+&emsp; Scholarship amount: _(230 €)_  
 - Outstanding Graduate Student, 2024  
 - Outstanding Graduate Student, 2022  
 - Outstanding School Staff: Monitor, 2022  
-- Special Academic Scholarship  
-&emsp; _(2,600 €)_, 2022  
-- Special Academic Scholarship  
-&emsp; _(2,600 €)_, 2021
+- Special Academic Scholarship, 2022  
+&emsp; Scholarship amount: _(2,600 €)_  
+- Special Academic Scholarship, 2021  
+&emsp; Scholarship amount: _(2,600 €)_
