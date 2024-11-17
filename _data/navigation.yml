@@ -1,17 +1,17 @@
 # main links links
-main:
-  - title: "News"
-    url: /news/
+# main:
+  #- title: "News"
+  #  url: /news/
     
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+   # url: /publications/
 
-  - title: "Projects"
-    url: /projects/    
+ # - title: "Projects"
+ #   url: /projects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
                 
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+ #   url: /cv/
     
