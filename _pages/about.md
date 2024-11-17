@@ -12,7 +12,7 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
 
 News
 ======
-- **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future！
+- **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future！🎇
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to [Dr. Xi](https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate) and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.
 - **07.08.2024**. First time using Overleaf to translate my master's [thesis](https://doi.org/10.6084/m9.figshare.26508949.v2) into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.
 
@@ -27,7 +27,7 @@ Publications
 
 **Conference papers (peer-reviewed)**
 - Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides.  
-&emsp; Published in  _2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
+&emsp; Published in  _2nd Asia Conference on Electrical, Power and Computer Engineering &emsp; (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
 - Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids.  
 &emsp; Published in _Annual Conference of China Electrotechnical Society (ACCES), 2022._ [Link](https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76)
 
