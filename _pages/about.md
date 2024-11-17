@@ -22,15 +22,15 @@ Publications
 ======
 **Journal papers**
 - A Modified K-means Clustering Algorithm Based on FMF-GS-DD.  
-&emsp;  Engineering Letters, 2023. (Q4) [Link](https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf)
+&emsp;  _Engineering Letters, 2023. (Q4)_ [Link](https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf)
 - Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means.  
-&emsp;  IET Generation, Transmission & Distribution, 2023. (Q3) [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052)
+&emsp;  _IET Generation, Transmission & Distribution, 2023. (Q3)_ [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052)
 
 **Conference papers (peer-reviewed)**
 - Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides.  
-&emsp;  2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
+&emsp;  _2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
 - Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids.  
-&emsp;  Annual Conference of China Electrotechnical Society (ACCES), 2022. [Link](https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76)
+&emsp; _Annual Conference of China Electrotechnical Society (ACCES), 2022._ [Link](https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76)
 
 Projects & Funding
 ====== 
