@@ -12,9 +12,9 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
 
 News
 ======
-- **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future！🎇
+- **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future！🎆
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to [Dr. Xi](https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate) and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.
-- **07.08.2024**. First time using Overleaf to translate my master's [thesis](https://doi.org/10.6084/m9.figshare.26508949.v2) into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.
+- **07.08.2024**. First time using Overleaf to translate my master's [thesis](https://doi.org/10.6084/m9.figshare.26508949.v2) into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.❤️
 
 
 Publications
