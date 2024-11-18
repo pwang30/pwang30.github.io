@@ -20,6 +20,12 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
 📝Publications
 ======
 **Journal papers**
+<p>    
+<img  src="fig_kmeans_q4.png"  width="400"  align="left" />
+文字在右边，图片在左边。文字在右边，图片在左边。文字在右边，图片在左边。文字在右边，图片在左边。文字在右边，图片在左边。
+</p>
+
+
 - A Modified K-means Clustering Algorithm Based on FMF-GS-DD.  
 &emsp;  Published in _Engineering Letters, 2023. (Q4)_ [Link](https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf)
 - Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means.  
