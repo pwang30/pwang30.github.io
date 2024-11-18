@@ -26,8 +26,7 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <div>
     <p> 
       
-A Modified K-means Clustering Algorithm Based on FMF-GS-DD.  
-&emsp; Published in <em>Engineering Letters, 2023. (Q4)</em> <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank">Link</a>
+A Modified K-means Clustering Algorithm Based on FMF-GS-DD. Published in <em>Engineering Letters, 2023. (Q4)</em> <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank">Link</a>
     </p>
   </div>
 </div>
