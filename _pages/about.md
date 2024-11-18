@@ -32,7 +32,7 @@ A Modified K-means Clustering Algorithm Based on FMF-GS-DD. Published in <em>Eng
 </div>
 
 <div style="display: flex; align-items: left;">
-  <img src="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052" alt="Description" style="width: 300px; margin-right: 1px;">
+  <img src="fig_fcm_q3.jpg" alt="Description" style="width: 300px; margin-right: 1px;">
   <div>
     <p> 
       
