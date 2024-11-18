@@ -27,7 +27,7 @@ A Modified K-means Clustering Algorithm Based on FMF-GS-DD.
 
 
 <div style="display: flex; align-items: left;">
-  <img src="fig_kmeans_q4.png" alt="Description" style="width: 300px; margin-right: 20px;">
+  <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 300px; margin-right: 20px;">
   <div>
     <h3>1</h3>
     <p>A Modified K-means Clustering Algorithm Based on FMF-GS-DD.  Published in _Engineering Letters, 2023. (Q4)_ [Link](https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf) </p>
