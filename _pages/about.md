@@ -10,10 +10,10 @@ redirect_from:
 I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/internacional"> Technical University of Madrid (UPM) </a>, supervised by [Prof. Luis Badesa](https://badber.github.io/). My doctoral research line is: Power system economics with stability guarantees and resilience enhancement. I received my master's and bachelor's degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications (CQUPT)](https://english.cqupt.edu.cn/), supervised by [Prof. Yiwei Ma](https://orcid.org/0000-0003-2803-1637).
 
 
-📅News
+🔥News
 ======
 - **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future！🎉
-- **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to [Dr. Xi](https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate) and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.
+- **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to [Dr. Xi](https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate) and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.😁
 - **07.08.2024**. First time using Overleaf to translate my master's [thesis](https://doi.org/10.6084/m9.figshare.26508949.v2) into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.❤️
 
 
