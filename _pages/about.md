@@ -31,10 +31,6 @@ A Modified K-means Clustering Algorithm Based on FMF-GS-DD. Published in <em>Eng
   </div>
 </div>
 
-
-- Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means.  
-&emsp;  Published in _IET Generation, Transmission & Distribution, 2023. (Q3)_ [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052)
-
 <div style="display: flex; align-items: left;">
   <img src="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052" alt="Description" style="width: 300px; margin-right: 1px;">
   <div>
