@@ -27,11 +27,11 @@ A Modified K-means Clustering Algorithm Based on FMF-GS-DD.
 </p>
 
 
-<div style="display: flex; align-items: center;">
-  <img src="fig_kmeans_q4.png" alt="Description" style="width: 150px; margin-right: 20px;">
+<div style="display: flex; align-items: left;">
+  <img src="fig_kmeans_q4.png" alt="Description" style="width: 300px; margin-right: 20px;">
   <div>
-    <h3>标题</h3>
-    <p>这是图片右侧的文本内容，可以是介绍、描述或其他信息。</p>
+    <h3>aaa</h3>
+    <p>bbb</p>
   </div>
 </div>
 
