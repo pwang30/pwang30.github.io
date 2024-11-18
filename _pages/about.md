@@ -35,6 +35,17 @@ A Modified K-means Clustering Algorithm Based on FMF-GS-DD. Published in <em>Eng
 - Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means.  
 &emsp;  Published in _IET Generation, Transmission & Distribution, 2023. (Q3)_ [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052)
 
+<div style="display: flex; align-items: left;">
+  <img src="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.13052" alt="Description" style="width: 300px; margin-right: 1px;">
+  <div>
+    <p> 
+      
+Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means. Published in <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank">Link</a>
+    </p>
+  </div>
+</div>
+
+
 **Conference papers (peer-reviewed)**
 - Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides.  
 &emsp; Published in  _2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023._ [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
