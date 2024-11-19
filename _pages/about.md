@@ -86,9 +86,9 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 🔗Projects & Funding
 ====== 
 - <a href="https://en.wikipedia.org/wiki/China_Scholarship_Council" target="_blank" style="text-decoration: none;">China Scholarship Council (CSC) schlarship</a>, October/2024-October/2028. <br>
-&nbsp; &nbsp; <b> _Funding amount: 64,800 €_. </b>
+&nbsp; &nbsp; <b> _Funding amount: 64,800 €_ </b>
 - CQUPT PI, <a href="https://yjs.cqupt.edu.cn/info/1195/3543.htm" target="_blank" style="text-decoration: none;">Chongqing Municipal Education Commission project</a>, which supported my master's <a href="https://doi.org/10.6084/m9.figshare.26508949.v2" target="_blank" style="text-decoration: none;">thesis</a>, "Research on Time-of-Use Tariff of New Energy Power System Considering Supply and Demand Uncertainties", April/2022-May/2024. <br>
-&nbsp; &nbsp; <b> _Funding amount: 660 €_. </b>
+&nbsp; &nbsp; <b> _Funding amount: 660 €_ </b>
 
 
 <hr style="border: 1px solid #000; width: 100%;">
@@ -116,10 +116,10 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
  <b> <span style="font-size:25px;">Education</span> </b> 
 - Third Class Academic Scholarship, 2024  
 &emsp;  <b> _Scholarship amount: 230 €_  </b>
-- Outstanding Graduate Student, 2024  
-- Outstanding Graduate Student, 2022  
-- Outstanding School Staff: Working as a Monitor, 2022  
+- Outstanding Graduate Student, 2024
 - Special Academic Scholarship, 2023  
 &emsp;  <b> _Scholarship amount: 2,600 €_  </b>
+- Outstanding Graduate Student, 2022  
+- Outstanding School Staff: Working as a Monitor, 2022  
 - Special Academic Scholarship, 2022  
 &emsp;  <b> _Scholarship amount: 2,600 €_   </b>
