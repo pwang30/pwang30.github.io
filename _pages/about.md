@@ -46,7 +46,7 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 300px; margin-right: 1px;">
   <div>
     <p> 
-     Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides. Published in <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE).</em> <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank">Link</a>
+     Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides. Published in <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank">Link</a>
     </p>
   </div>
 </div>
