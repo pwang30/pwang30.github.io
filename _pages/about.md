@@ -80,27 +80,27 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 ======
 **Competitions**  
 - The 16th iCAN Innovation Contest, 2022  
-&emsp; _First prize_  
+&emsp;  <b> _First prize_  </b>
 - “Hua Shu Cup” the 3rd National University Students Math Modeling Competition, 2022  
-&emsp; _Third prize_  
+&emsp;  <b> _Third prize_  </b>
 - “CSEE Cup” 2022 National University Students Electrical Math Modeling Competition, 2022  
-&emsp; _Third prize_  
+&emsp;  <b> _Third prize_  </b>
 - “China Youth Cup” the 5th National University Students Math Modeling Competition, 2022  
-&emsp; _Second prize_  
+&emsp;  <b> _Second prize_  </b>
 - 2021 Asia and Pacific Mathematical Contest in Modeling, 2022  
-&emsp; _Third prize_  
+&emsp;  <b> _Third prize_  </b>
 - “Huawei Cup” the 18th China Post-graduate Mathematical contest in Modeling, 2021  
-&emsp; _Third prize_  
+&emsp;  <b> _Third prize_  </b>
 - “Hua Shu Cup” the 2nd National University Students Math Modeling Competition, 2021  
-&emsp; _First prize_ 
+&emsp;  <b> _First prize_ </b>
 
 **Education**  
 - Third Class Academic Scholarship, 2024  
-&emsp; Scholarship amount: _230 €_  
+&emsp;  <b> Scholarship amount: _230 €_  </b>
 - Outstanding Graduate Student, 2024  
 - Outstanding Graduate Student, 2022  
 - Outstanding School Staff: Working as a Monitor, 2022  
 - Special Academic Scholarship, 2023  
-&emsp; Scholarship amount: _2,600 €_  
+&emsp;  <b> Scholarship amount: _2,600 €_  </b>
 - Special Academic Scholarship, 2022  
-&emsp; Scholarship amount: _2,600 €_
+&emsp;  <b> Scholarship amount: _2,600 €_   </b>
