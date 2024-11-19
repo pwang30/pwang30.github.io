@@ -19,7 +19,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 📝Publications
 ======
-**Journal papers**
+<b> <span style="font-size:25px;">Journal papers</span> </b>
 
 <div style="display: flex; align-items: left; margin-bottom: 20px;">
   <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 300px; margin-right: 0px;">
@@ -45,7 +45,8 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 
 
-**Conference papers (peer-reviewed)**
+ <b> <span style="font-size:25px;">Conference papers (peer-reviewed)</span> </b>
+ 
 <div style="display: flex; align-items: left; margin-bottom: 20px;">
   <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
@@ -78,7 +79,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 🏆Awards & Honors
 ======
-**Competitions**  
+ <b> <span style="font-size:25px;">Competitions</span> </b>  
 - The 16th iCAN Innovation Contest, 2022  
 &emsp;  <b> _First prize_  </b>
 - “Hua Shu Cup” the 3rd National University Students Math Modeling Competition, 2022  
@@ -94,7 +95,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 - “Hua Shu Cup” the 2nd National University Students Math Modeling Competition, 2021  
 &emsp;  <b> _First prize_ </b>
  
- <b> <span style="font-size:20px;">Education</span> </b> 
+ <b> <span style="font-size:25px;">Education</span> </b> 
 - Third Class Academic Scholarship, 2024  
 &emsp;  <b> _Scholarship amount: 230 €_  </b>
 - Outstanding Graduate Student, 2024  
