@@ -22,7 +22,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 **Journal papers**
 
 <div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 100px; margin-right: 0px;">
+  <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
       A Modified K-means Clustering Algorithm Based on FMF-GS-DD. <br>
@@ -33,7 +33,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 </div>
 
 <div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 100px; margin-right: 0px;">
+  <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
       Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means. <br>
@@ -47,7 +47,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 **Conference papers (peer-reviewed)**
 <div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 100px; margin-right: 0px;">
+  <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
      Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides. <br>
@@ -59,7 +59,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 
 <div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 100px; margin-right: 0px;">
+  <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
      Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids. <br>
