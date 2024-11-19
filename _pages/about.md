@@ -25,7 +25,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
   <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
-      A Modified K-means Clustering Algorithm Based on FMF-GS-DD. <br>
+      <strong>A Modified K-means Clustering Algorithm Based on FMF-GS-DD</strong>    <br>
       &nbsp; &nbsp; <em>Engineering Letters, 2023. (Q4)</em> <br>
       &nbsp;  &nbsp; <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank" style="text-decoration: none;">Link</a>
     </p>
@@ -36,7 +36,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
   <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
-      Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means. <br>
+      <strong>Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means</strong> <br>
       &nbsp; &nbsp; <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <br>
       &nbsp; &nbsp; <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank" style="text-decoration: none;">Link</a>
     </p>
@@ -50,7 +50,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
   <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
-     Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides. <br>
+     <strong>Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides</strong>   <br>
      &nbsp; &nbsp; <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <br>
      &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank" style="text-decoration: none;">Link</a>
     </p>
@@ -62,7 +62,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
   <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 300px; margin-right: 0px;">
   <div>
     <p> 
-     Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids. <br>
+     <strong>Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids</strong> <br>
      &nbsp; &nbsp; <em>Annual Conference of China Electrotechnical Society (ACCES), 2022.</em> <br>
      &nbsp; &nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76" target="_blank" style="text-decoration: none;">Link</a>
     </p>
