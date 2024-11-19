@@ -26,8 +26,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <div>
     <p> 
       A Modified K-means Clustering Algorithm Based on FMF-GS-DD. <br>
-      &nbsp; <em>Engineering Letters, 2023. (Q4)</em> <br>
-      &nbsp; <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank">Link</a>
+      &nbsp; &nbsp; <em>Engineering Letters, 2023. (Q4)</em> <br>
+      &nbsp;  &nbsp; <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank">Link</a>
     </p>
   </div>
 </div>
@@ -37,8 +37,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <div>
     <p> 
       Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means. <br>
-      &nbsp; <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <br>
-      &nbsp; <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank">Link</a>
+      &nbsp; &nbsp; <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <br>
+      &nbsp; &nbsp; <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank">Link</a>
     </p>
   </div>
 </div>
@@ -51,8 +51,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <div>
     <p> 
      Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides. <br>
-     &nbsp; <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <br>
-     &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank">Link</a>
+     &nbsp; &nbsp; <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <br>
+     &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank">Link</a>
     </p>
   </div>
 </div>
@@ -63,8 +63,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <div>
     <p> 
      Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids. <br>
-     &nbsp; <em>Annual Conference of China Electrotechnical Society (ACCES), 2022.</em> <br>
-     &nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76" target="_blank">Link</a>
+     &nbsp; &nbsp; <em>Annual Conference of China Electrotechnical Society (ACCES), 2022.</em> <br>
+     &nbsp; &nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76" target="_blank">Link</a>
     </p>
   </div>
 </div>
