@@ -38,7 +38,7 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
     <p> 
       Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means. <br>
       &nbsp; &nbsp; <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <br>
-      &nbsp; &nbsp; <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank">Link</a>
+      &nbsp; &nbsp; <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank" style="text-decoration: none;">Link</a>
     </p>
   </div>
 </div>
