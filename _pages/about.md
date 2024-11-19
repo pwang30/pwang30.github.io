@@ -25,7 +25,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 250px; margin-right: 0px;">
   <div>
     <p> 
-      A Modified K-means Clustering Algorithm Based on FMF-GS-DD. Published in <em>Engineering Letters, 2023. (Q4)</em> <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank">Link</a>
+      A Modified K-means Clustering Algorithm Based on FMF-GS-DD. <br>
+      <em>Engineering Letters, 2023. (Q4)</em> <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank">Link</a>
     </p>
   </div>
 </div>
@@ -34,7 +35,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 250px; margin-right: 0px;">
   <div>
     <p> 
-      Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means. Published in <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank">Link</a>
+      Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means. <br>
+      <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <a href="https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/gtd2.13052" target="_blank">Link</a>
     </p>
   </div>
 </div>
@@ -46,7 +48,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 250px; margin-right: 0px;">
   <div>
     <p> 
-     Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides. Published in <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank">Link</a>
+     Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides. <br>
+      <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank">Link</a>
     </p>
   </div>
 </div>
@@ -56,7 +59,8 @@ I am a PhD candidate in Power Systems at the [Technical University of Madrid (UP
   <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 250px; margin-right: 0px;">
   <div>
     <p> 
-     Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids. Published in <em>Annual Conference of China Electrotechnical Society (ACCES), 2022.</em> <a href="https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76" target="_blank">Link</a>
+     Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids. <br>
+      <em>Annual Conference of China Electrotechnical Society (ACCES), 2022.</em> <a href="https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76" target="_blank">Link</a>
     </p>
   </div>
 </div>
