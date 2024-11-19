@@ -9,12 +9,16 @@ redirect_from:
 
 I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/internacional" target="_blank" style="text-decoration: none;">Technical University of Madrid (UPM)</a>, supervised by <a href="https://badber.github.io/" target="_blank" style="text-decoration: none;">Prof. Luis Badesa</a>. My doctoral research line is: Power system economics with stability guarantees and resilience enhancement. I received my master's and bachelor's degrees in Electrical Engineering from <a href="https://english.cqupt.edu.cn/" target="_blank" style="text-decoration: none;">Chongqing University of Posts and Telecommunications (CQUPT)</a>, supervised by <a href="https://orcid.org/0000-0003-2803-1637" target="_blank" style="text-decoration: none;">Prof. Yiwei Ma</a>.
 
+<hr>
+
 
 🔥News
 ======
 - **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future!🎉
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to <a href="https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="text-decoration: none;">Dr. Xi</a> and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.😁
 - **07.08.2024**. First time using Overleaf to translate my master's <a href="https://doi.org/10.6084/m9.figshare.26508949.v2" target="_blank" style="text-decoration: none;">thesis</a> into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.❤️
+
+<hr>
 
 
 📝Publications
@@ -70,12 +74,19 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
   </div>
 </div>
 
+<hr>
+
+
 🔗Projects & Funding
 ====== 
 - <a href="https://en.wikipedia.org/wiki/China_Scholarship_Council" target="_blank" style="text-decoration: none;">China Scholarship Council (CSC) schlarship</a>, October/2024-October/2028. <br>
 &nbsp; &nbsp; <b> _Funding amount: 64,800 €_. </b>
 - CQUPT PI, <a href="https://yjs.cqupt.edu.cn/info/1195/3543.htm" target="_blank" style="text-decoration: none;">Chongqing Municipal Education Commission project</a>, which supported my master's <a href="https://doi.org/10.6084/m9.figshare.26508949.v2" target="_blank" style="text-decoration: none;">thesis</a>, "Research on Time-of-Use Tariff of New Energy Power System Considering Supply and Demand Uncertainties", April/2022-May/2024. <br>
 &nbsp; &nbsp; <b> _Funding amount: 660 €_. </b>
+
+
+<hr>
+
 
 🏆Awards & Honors
 ======
