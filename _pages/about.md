@@ -96,11 +96,11 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 **Education**  
 - Third Class Academic Scholarship, 2024  
-&emsp;  <b> Scholarship amount: _230 €_  </b>
+&emsp;  <b> _Scholarship amount: 230 €_  </b>
 - Outstanding Graduate Student, 2024  
 - Outstanding Graduate Student, 2022  
 - Outstanding School Staff: Working as a Monitor, 2022  
 - Special Academic Scholarship, 2023  
-&emsp;  <b> Scholarship amount: _2,600 €_  </b>
+&emsp;  <b> _Scholarship amount: 2,600 €_  </b>
 - Special Academic Scholarship, 2022  
-&emsp;  <b> Scholarship amount: _2,600 €_   </b>
+&emsp;  <b> _Scholarship amount: 2,600 €_   </b>
