@@ -72,7 +72,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 🔗Projects & Funding
 ====== 
 - <a href="https://en.wikipedia.org/wiki/China_Scholarship_Council" target="_blank" style="text-decoration: none;">China Scholarship Council (CSC) schlarship</a>, October/2024-October/2028, _Funding amount: 64,800 €_.
-- CQUPT PI, <a href="https://yjs.cqupt.edu.cn/info/1195/3543.htm" target="_blank" style="text-decoration: none;">Chongqing Municipal Education Commission project</a>, "Research on Time-of-Use Tariff of New Energy Power System Considering Supply and Demand Uncertainties", April/2022-May/2024, _Funding amount: 660 €_.
+- CQUPT PI, <a href="https://yjs.cqupt.edu.cn/info/1195/3543.htm" target="_blank" style="text-decoration: none;">Chongqing Municipal Education Commission project, which supported my master's <b href="https://doi.org/10.6084/m9.figshare.26508949.v2" target="_blank" style="text-decoration: none;">thesis</b></a>, "Research on Time-of-Use Tariff of New Energy Power System Considering Supply and Demand Uncertainties", April/2022-May/2024, _Funding amount: 660 €_.
 
 🏆Awards & Honors
 ======
