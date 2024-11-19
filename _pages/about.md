@@ -9,7 +9,9 @@ redirect_from:
 
 I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/internacional" target="_blank" style="text-decoration: none;">Technical University of Madrid (UPM)</a>, supervised by <a href="https://badber.github.io/" target="_blank" style="text-decoration: none;">Prof. Luis Badesa</a>. My doctoral research line is: Power system economics with stability guarantees and resilience enhancement. I received my master's and bachelor's degrees in Electrical Engineering from <a href="https://english.cqupt.edu.cn/" target="_blank" style="text-decoration: none;">Chongqing University of Posts and Telecommunications (CQUPT)</a>, supervised by <a href="https://orcid.org/0000-0003-2803-1637" target="_blank" style="text-decoration: none;">Prof. Yiwei Ma</a>.
 
-<hr>
+
+<hr style="border: 1px solid #000; width: 50%;">
+
 
 
 🔥News
@@ -18,7 +20,9 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to <a href="https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="text-decoration: none;">Dr. Xi</a> and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.😁
 - **07.08.2024**. First time using Overleaf to translate my master's <a href="https://doi.org/10.6084/m9.figshare.26508949.v2" target="_blank" style="text-decoration: none;">thesis</a> into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.❤️
 
-<hr>
+
+<hr style="border: 1px solid #000; width: 50%;">
+
 
 
 📝Publications
@@ -74,7 +78,9 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
   </div>
 </div>
 
-<hr>
+
+<hr style="border: 1px solid #000; width: 50%;">
+
 
 
 🔗Projects & Funding
@@ -85,7 +91,8 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 &nbsp; &nbsp; <b> _Funding amount: 660 €_. </b>
 
 
-<hr>
+<hr style="border: 1px solid #000; width: 50%;">
+
 
 
 🏆Awards & Honors
