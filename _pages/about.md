@@ -30,7 +30,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 <b> <span style="font-size:25px;">Journal papers</span> </b>
 
 <div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
-  <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 100%; max-width: 150px; height: auto; margin-right: 10px;">
   <div style="flex: 1; min-width: 200px;">
     <p> 
       <strong>A Modified K-means Clustering Algorithm Based on FMF-GS-DD</strong> <br>
@@ -42,7 +42,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 
 <div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
-  <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 100%; max-width: 150px; height: auto; margin-right: 10px;">
   <div style="flex: 1; min-width: 200px;">
     <p> 
       <strong>Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means</strong> <br>
@@ -59,7 +59,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
  
 <div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
-  <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 100%; max-width: 150px; height: auto; margin-right: 10px;">
   <div style="flex: 1; min-width: 200px;">
     <p> 
       <strong>Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides</strong> <br>
@@ -72,7 +72,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 
 <div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
-  <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 100%; max-width: 150px; height: auto; margin-right: 10px;">
   <div style="flex: 1; min-width: 200px;">
     <p> 
      <strong>Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids</strong> <br>
