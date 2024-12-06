@@ -10,7 +10,7 @@ import Pkg
 #Pkg.build("CPLEX")
 #ENV["CPLEX_STUDIO_BINARIES"] = "/Users/kl/Documents/cplex/CPLEX_Studio2211/cplex/bin/arm64_osx/"
 #Pkg.add("CPLEX")
-using JuMP, CPLEX, CSV, DataFrames,LinearAlgebra, XLSX # JuMP for optimization, Gurobi as the solver
+using JuMP, CPLEX, CSV, DataFrames,LinearAlgebra, XLSX # JuMP for optimization, CPLEX as the solver
 
 
 
