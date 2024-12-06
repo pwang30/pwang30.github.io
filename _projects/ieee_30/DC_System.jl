@@ -2,9 +2,6 @@
 # Supervisor: Luis Badesa
 # This code is a simple example of an         UC-constrained optimization problem in DC power system,
 # intended to learn how to model, then solve an     DC power system           optimization problem, in JuMP. 
-# Just first step for me, next step is containing market stuff like      MPEC, market power, further EPEC
-# Finally, the fault analysis like      SCC      will be plugged in
-# intended to explore the coupling of       ecomonics and reliable operation
 # 03.Dec.2024
 
 #----------------------------------Pkg Introduction----------------------------------
