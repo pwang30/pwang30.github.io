@@ -67,9 +67,9 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 </div>
 
 
-<div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 300px; margin-right: 0px;">
-  <div>
+<div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
+  <img src="_pages/fig_acces_eiconf.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <div style="flex: 1; min-width: 200px;">
     <p> 
      <strong>Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids</strong> <br>
      &nbsp; &nbsp; <em>Annual Conference of China Electrotechnical Society (ACCES), 2022.</em> <br>
@@ -77,6 +77,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
     </p>
   </div>
 </div>
+
 
 
 <hr style="border: 1px solid #000; width: 100%;">
