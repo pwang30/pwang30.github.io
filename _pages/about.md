@@ -81,6 +81,13 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 <hr style="border: 1px solid #000; width: 100%;">
 
+📒**Notes Sharing**
+======
+- **06.12.2024**. I have modeled a simple UC-constrained DC-OPF problem in IEEE-30 bus system, in Julia. The code, system data(just for simulation test), and guidebook are shared. Hope it can work for peers, especially who start with Julia for the system modeling.
+
+
+
+<hr style="border: 1px solid #000; width: 100%;">
 
 
 🔗Projects & Funding
