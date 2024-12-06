@@ -29,20 +29,21 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 ======
 <b> <span style="font-size:25px;">Journal papers</span> </b>
 
-<div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 300px; margin-right: 0px;">
-  <div>
+<div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
+  <img src="_pages/fig_kmeans_q4.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <div style="flex: 1; min-width: 200px;">
     <p> 
-      <strong>A Modified K-means Clustering Algorithm Based on FMF-GS-DD</strong>    <br>
+      <strong>A Modified K-means Clustering Algorithm Based on FMF-GS-DD</strong> <br>
       &nbsp; &nbsp; <em>Engineering Letters, 2023. (Q4)</em> <br>
-      &nbsp;  &nbsp; <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank" style="text-decoration: none;">Link</a>
+      &nbsp; &nbsp; <a href="https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf" target="_blank" style="text-decoration: none;">Link</a>
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 300px; margin-right: 0px;">
-  <div>
+
+<div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
+  <img src="_pages/fig_fcm_q3.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <div style="flex: 1; min-width: 200px;">
     <p> 
       <strong>Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means</strong> <br>
       &nbsp; &nbsp; <em>IET Generation, Transmission & Distribution, 2023. (Q3)</em> <br>
@@ -53,18 +54,21 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 
 
+
  <b> <span style="font-size:25px;">Conference papers (peer-reviewed)</span> </b>
+
  
-<div style="display: flex; align-items: left; margin-bottom: 20px;">
-  <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 300px; margin-right: 0px;">
-  <div>
+<div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
+  <img src="_pages/fig_epce_eiconf.png" alt="Description" style="width: 100%; max-width: 300px; height: auto; margin-right: 10px;">
+  <div style="flex: 1; min-width: 200px;">
     <p> 
-     <strong>Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides</strong>   <br>
-     &nbsp; &nbsp; <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <br>
-     &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank" style="text-decoration: none;">Link</a>
+      <strong>Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides</strong> <br>
+      &nbsp; &nbsp; <em>2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE), 2023.</em> <br>
+      &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/10169016" target="_blank" style="text-decoration: none;">Link</a>
     </p>
   </div>
 </div>
+
 
 
 <div style="display: flex; align-items: left; margin-bottom: 20px; flex-wrap: wrap;">
