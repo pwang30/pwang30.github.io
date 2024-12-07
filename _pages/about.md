@@ -88,7 +88,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 📒**Notes Sharing**
 ======
-- **06.12.2024**. I have modeled a simple UC-constrained DC-OPF problem in IEEE-30 bus system, in Julia. The <a href="https://github.com/pwang30/pwang30.github.io/tree/66843584a8ace7db522cdf5816cdd16bc9d7a2bd/_projects/ieee_30" target="_blank" style="text-decoration: none;">code, system data(just for simulation test), and guidebook</a> are shared. Hope it can work for peers, especially who start with Julia for the system modeling.
+- **06.12.2024**. I have modeled a simple UC-constrained DC-OPF problem in IEEE-30 bus system, in Julia. The <a href="https://github.com/pwang30/pwang30.github.io/tree/66843584a8ace7db522cdf5816cdd16bc9d7a2bd/_projects/ieee_30" target="_blank" style="text-decoration: none;">code, system data (just for simulation test), and guidebook</a> are shared. Hope it can work for peers, especially who start with Julia for the system modeling.
 
 
 
