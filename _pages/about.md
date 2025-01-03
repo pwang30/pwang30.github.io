@@ -16,7 +16,7 @@ I am a PhD candidate in Power Systems at the <a href="https://www.upm.es/interna
 
 🔥News
 ======
-- **01.03.2025**. I am very excited to be an intern at <a href="https://www.tsinghua-eiri.org/" target="_blank" style="text-decoration: none;">清华四川能源互联网研究院(Tsinghua-eiri)</a>, focusing on power system.
+- **03.01.2025**. I am very excited to be an intern at <a href="https://www.tsinghua-eiri.org/" target="_blank" style="text-decoration: none;">清华四川能源互联网研究院(Tsinghua-eiri)</a>, focusing on power system.
 - **01.10.2024**. I am very excited to be a PhD student at Technical University of Madrid and conduct research on power systems. Hope everything goes well in the future!🎉
 - **22.09.2024**. I am honored to have a one-week internship at State Grid (Changping, Beijing). Thanks to <a href="https://scholar.google.com/citations?hl=en&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="text-decoration: none;">Dr. Xi</a> and your research team. Here I had a great time and learned about the concepts of virtual power plants and power market.😁
 - **07.08.2024**. First time using Overleaf to translate my master's <a href="https://github.com/pwang30/master_thesis/archive/refs/heads/main.zip" target="_blank" style="text-decoration: none;">thesis</a> into English. A good PRACTICE for how to use Overleaf！ Also a document to REMEMBER Lee.❤️
