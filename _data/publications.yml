@@ -11,7 +11,7 @@ main:
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: Engineering Letters. Dec, 2023.
     pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/EL,P_S_F_V.jpeg
 
 
   - title: "Low-carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
