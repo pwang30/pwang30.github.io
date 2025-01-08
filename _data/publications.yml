@@ -1,22 +1,32 @@
 main:
 
-  - title: Peak‐valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means
-    authors: Peng Wang, Yiwei Ma*, Zhiqi Ling, Genhong Luo (*Corresponding authors)
+  - title: "Peak‐valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means"
+    authors: Peng Wang, Yiwei Ma*, Zhiqi Ling, Genhong Luo
+    conference: IET Generation, Transmission & Distribution. Dec, 2023.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
     image: ./assets/img/teaser_example_2.png
 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "A Modified K-means Clustering Algorithm Based on FMF-GS-DD"
+    authors: Peng Wang, Yiwei Ma*, Zhiqi Ling, Genhong Luo
+    conference: Engineering Letters. Dec, 2023.
+    pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
     image: ./assets/img/teaser_example.png
 
 
+  - title: "Low-carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
+    authors: Peng Wang*
+    conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
+    image: ./assets/img/teaser_example.png
+    notes: Oral Presentation
+    
+    
+  - title: "Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids"
+    authors: Peng Wang*, Ruibin Cao, Wenxian Ye 
+    conference: Annual Conference of China Electrotechnical Society. Sep, 2022.
+    image: ./assets/img/teaser_example.png
+    notes: Poster Presentation
+    
 
+* means corresponding authors
     # <strong>Yaoyao Liu*</strong>, Zongwei Zhou* 
