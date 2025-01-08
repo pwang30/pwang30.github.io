@@ -17,7 +17,7 @@ main:
   - title: "Low-carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
     authors: Peng Wang*
     conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
-    pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
+    pdf: https://ieeexplore.ieee.org/abstract/document/10169016
     image: ./assets/img/teaser_example.png
     notes: Oral Presentation
     
@@ -25,7 +25,7 @@ main:
   - title: "Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids"
     authors: <strong>Peng Wang</strong>*, Ruibin Cao, Wenxian Ye 
     conference: Annual Conference of China Electrotechnical Society. Sep, 2022.
-    pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
+    pdf: https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76
     image: ./assets/img/teaser_example.png
     notes: Poster Presentation
     
