@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](https://en.wikipedia.org/wiki/Technical_University_of_Madrid), supervised by [Prof. Luis Badesa](https://scholar.google.com/citations?hl=en&user=8DQgsZQAAAAJ). My current research line is "Power system economics with stability guarantees and resilience enhancement". Before this, I received my bachelor and master degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications](https://zh.wikipedia.org/zh-cn/%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6), supervised by [Prof. Yiwei Ma](https://www.researchgate.net/profile/Yiwei-Ma-6).
+I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](https://en.wikipedia.org/wiki/Technical_University_of_Madrid), supervised by [Prof. Luis Badesa](https://scholar.google.com/citations?hl=en&user=8DQgsZQAAAAJ). My current research line is "Power system economics with stability guarantees and resilience enhancement". Before this, I received my bachelor and master degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications (CQUPT)](https://zh.wikipedia.org/zh-cn/%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6), supervised by [Prof. Yiwei Ma](https://www.researchgate.net/profile/Yiwei-Ma-6).
 
 ## Research Interests
 
@@ -18,12 +18,8 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 - **[Sep. 2024]** I am excited to have a one-week internship at [State Grid](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China) (Changping, Beijing), under the guidance of [Dr. Xi](https://scholar.google.com/citations?hl=zh-CN&user=r6BeldgAAAAJ), learning the concepts of virtual power plants and games in the power market.
 - **[Aug. 2024]** My [master thesis](https://github.com/pwang30/master_thesis/archive/refs/heads/main.zip) has been translated to English using Overleaf, which is a good practice for me to get familiar with this tool. Also a file to remind me to love **LEE**.
 
-## Publications
+{% include_relative _includes/publications.md %}
 
-- **Peak‐valley period partition and abnormal time correction for time‐of‐use tariffs under daily load curves based on improved fuzzy c‐means**. <br> ` ` ` `_IET Generation, Transmission & Distribution_. Dec.2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052)
-- **A Modified K-means Clustering Algorithm Based on FMF-GS-DD**. <br> ` ` ` `_Engineering Letters_. Dec.2023. [Link](https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf)
-- **Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides**. <br> ` ` ` `_2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE)_. Apr. 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10169016)
-- **Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids**. <br> ` ` ` `_Annual Conference of China Electrotechnical Society_. Sep. 2022. [Link](https://link.springer.com/chapter/10.1007/978-981-99-0451-8_76)
 
 ## Notes Sharing
 
@@ -46,6 +42,5 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
