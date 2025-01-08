@@ -26,18 +26,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 - **[Nov. 2024]** A simple note for unit commitment constrained DC-OPF power system problem is on sharing. Here is the [link](https://github.com/pwang30/pwang30.github.io/tree/2e2ad363ac17a7c1a18feb9b5a1ace37c40e5ec9/Notes_UC_DC_OPF) for the guidance and source code in Julia.
 
 
-## Projects and Funding
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-## Honors and Awards
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 
