@@ -1,14 +1,14 @@
 main:
 
   - title: "Peak‐valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means"
-    authors: Peng Wang, Yiwei Ma*, Zhiqi Ling, Genhong Luo
+    authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: IET Generation, Transmission & Distribution. Dec, 2023.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
     image: ./assets/img/teaser_example_2.png
 
 
   - title: "A Modified K-means Clustering Algorithm Based on FMF-GS-DD"
-    authors: Peng Wang, Yiwei Ma*, Zhiqi Ling, Genhong Luo
+    authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: Engineering Letters. Dec, 2023.
     pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
     image: ./assets/img/teaser_example.png
@@ -17,13 +17,15 @@ main:
   - title: "Low-carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
     authors: Peng Wang*
     conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
+    pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
     image: ./assets/img/teaser_example.png
     notes: Oral Presentation
     
     
   - title: "Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids"
-    authors: Peng Wang*, Ruibin Cao, Wenxian Ye 
+    authors: <strong>Peng Wang</strong>*, Ruibin Cao, Wenxian Ye 
     conference: Annual Conference of China Electrotechnical Society. Sep, 2022.
+    pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
     image: ./assets/img/teaser_example.png
     notes: Poster Presentation
     
