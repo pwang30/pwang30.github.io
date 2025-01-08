@@ -4,7 +4,7 @@ main:
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: IET Generation, Transmission & Distribution. Dec, 2023.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/EL,P_S_F_V.jpeg
 
 
   - title: "A Modified K-means Clustering Algorithm Based on FMF-GS-DD"
@@ -18,8 +18,8 @@ main:
     authors: Peng Wang*
     conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
     pdf: https://github.com/pwang30/pwang30.github.io/blob/d28c1fb2336eb3389af1b22f1608ca0e3336baaa/paper_PDF/Low-carbon_scheduling_of_independent_microgrid_considering_uncertainty_of_source_and_load_sides.pdf
-    image: ./assets/img/teaser_example.png
-    notes: Oral Presentation
+    image: ./assets/img/EPCE.gif  
+    notes: Oral Presentation  
     
     
   - title: "Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids"
