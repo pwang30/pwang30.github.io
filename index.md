@@ -9,7 +9,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 ## Research Interests
 
 - **Power system optimization:** power market, optimal operation, stability guarantee
-- **Clustering algorithm:** c-means, fuzzy c-means, improved algorithms
+- **Clustering algorithm:** c-means, fuzzy c-means, improved clustering algorithms
 
 ## News
 
