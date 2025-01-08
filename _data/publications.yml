@@ -2,13 +2,9 @@ main:
 
   - title: Peak‐valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means
     authors: Peng Wang, Yiwei Ma*, Zhiqi Ling, Genhong Luo (*Corresponding authors)
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-      pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
     image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
+
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
