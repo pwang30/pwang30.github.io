@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](https://en.wikipedia.org/wiki/Technical_University_of_Madrid), supervised by [Prof. Luis Badesa](https://scholar.google.com/citations?hl=en&user=8DQgsZQAAAAJ). My current research line is "Power system economics with stability guarantees and resilience enhancement". Before this, I received my bachelor and master degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications (CQUPT)](https://zh.wikipedia.org/zh-cn/%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6), supervised by [Prof. Yiwei Ma](https://www.researchgate.net/profile/Yiwei-Ma-6).
+I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](https://en.wikipedia.org/wiki/Technical_University_of_Madrid), supervised by [Prof. Luis Badesa](https://scholar.google.com/citations?hl=en&user=8DQgsZQAAAAJ). My current research line is "Power system economics with stability guarantees and resilience enhancement". Before this, I received B.Sc. and M.Sc. degrees in Electrical Engineering from [Chongqing University of Posts and Telecommunications (CQUPT)](https://zh.wikipedia.org/zh-cn/%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6), supervised by [Prof. Yiwei Ma](https://www.researchgate.net/profile/Yiwei-Ma-6).
 
 ## Research Interests
 
