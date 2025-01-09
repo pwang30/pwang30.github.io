@@ -1,20 +1,20 @@
 main:
 
-  - title: "Peak‐valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means"
+  - title: "Peak‐Valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means"
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: IET Generation, Transmission & Distribution. Dec, 2023.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
     image: ./assets/img/IET,AP.jpg
 
 
-  - title: "A Modified K-means Clustering Algorithm Based on FMF-GS-DD"
+  - title: "A Modified K-Means Clustering Algorithm Based on FMF-GS-DD"
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: Engineering Letters. Dec, 2023.
     pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
     image: ./assets/img/EL,P_S_F_V.jpeg
 
 
-  - title: "Low-carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
+  - title: "Low-Carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
     authors: Peng Wang*
     conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
     pdf: https://github.com/pwang30/pwang30.github.io/blob/d28c1fb2336eb3389af1b22f1608ca0e3336baaa/paper_PDF/Low-carbon_scheduling_of_independent_microgrid_considering_uncertainty_of_source_and_load_sides.pdf
