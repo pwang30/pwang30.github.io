@@ -13,7 +13,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## News
 
-- **[Jan. 2025]** I have an internship in [清华四川能源互联网研究院(Tsinghua-Eiri)](https://www.tsinghua-eiri.org/), focusing on the power system.
+- **[Jan. 2025]** I have an internship in [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/), focusing on the power system.
 - **[Oct. 2024]** I am thrilled to start research about power system as a Ph.D. student in UPM. Hope all will go well!
 - **[Sep. 2024]** I am excited to have a one-week internship at [State Grid](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China) (Changping, Beijing), under the guidance of [Dr. Xi](https://scholar.google.com/citations?hl=zh-CN&user=r6BeldgAAAAJ), learning the concepts of virtual power plants and games in the power market.
 - **[Aug. 2024]** My [master thesis](https://github.com/pwang30/master_thesis.git) has been translated to English using Overleaf, which is a good practice for me to get familiar with this tool. Also a file to remind me to love **LEE**.
