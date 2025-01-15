@@ -20,7 +20,7 @@ main:
 
   - title: "Analyzing the Role of the DSO in Electricity Trading of VPPs via a Stackelberg Game Model"
     authors: <strong>Peng Wang</strong>, Xi Zhang, Luis Badesa
-    conference: 16th IEEE PowerTech 2025. Jun, 2023.
+    conference: 16th IEEE PowerTech. Jun, 2025.
     pdf: https://arxiv.org/pdf/2501.07715
     bibtex: https://github.com/pwang30/pwang30.github.io/blob/75ace2fedc2e49f7b99b227305fc3970da73162d/paper_citations/bib_cite_Analyzing%20the%20Role%20of%20the%20DSO%20in%20Electricity%20Trading%20of%20VPPs%20via%20a%20Stackelberg%20Game%20Model.rtf
     image: ./assets/img/fig_two_Modes.jpg
