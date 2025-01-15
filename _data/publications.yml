@@ -6,12 +6,18 @@ main:
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
     image: ./assets/img/IET,AP.jpg
 
-
   - title: "A Modified K-Means Clustering Algorithm Based on FMF-GS-DD"
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: Engineering Letters. Dec, 2023.
     pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
     image: ./assets/img/EL,P_S_F_V.jpeg
+
+
+  - title: "Analyzing the Role of the DSO in Electricity Trading of VPPs via a Stackelberg Game Model <strong>(Under review)</strong>"
+    authors: <strong>Peng Wang</strong>, Xi Zhang, Luis Badesa
+    conference: 16th IEEE PowerTech 2025. Jun, 2023.
+    pdf: https://arxiv.org/pdf/2501.07715
+    image: ./assets/img/fig_two_Modes.jpeg
 
 
   - title: "Low-Carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
