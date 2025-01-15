@@ -4,12 +4,33 @@ main:
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: IET Generation, Transmission & Distribution. Dec, 2023.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
+    bibtex: @article{wang2023peak,
+  title={Peak-valley period partition and abnormal time correction for time-of-use tariffs under daily load curves based on improved fuzzy c-means},
+  author={Wang, Peng and Ma, Yiwei and Ling, Zhiqi and Luo, Genhong},
+  journal={IET Generation, Transmission \& Distribution},
+  volume={17},
+  number={24},
+  pages={5396--5409},
+  year={2023},
+  publisher={Wiley Online Library}
+}
     image: ./assets/img/IET,AP.jpg
+
+
+
 
   - title: "A Modified K-Means Clustering Algorithm Based on FMF-GS-DD"
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: Engineering Letters. Dec, 2023.
     pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
+    bibtex: @article{wang2023modified,
+  title={A Modified K-means Clustering Algorithm Based on FMF-GS-DD.},
+  author={Wang, Peng and Ma, Yiwei and Ling, Zhiqi and Luo, Genhong},
+  journal={Engineering Letters},
+  volume={31},
+  number={4},
+  year={2023}
+}
     image: ./assets/img/EL,P_S_F_V.jpeg
 
 
@@ -25,6 +46,14 @@ main:
     authors: Peng Wang*
     conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
     pdf: https://github.com/pwang30/pwang30.github.io/blob/d28c1fb2336eb3389af1b22f1608ca0e3336baaa/paper_PDF/Low-carbon_scheduling_of_independent_microgrid_considering_uncertainty_of_source_and_load_sides.pdf
+    bibtex: @inproceedings{wang2023low,
+  title={Low-carbon scheduling of independent microgrid considering uncertainty of source and load sides},
+  author={Wang, Peng},
+  booktitle={2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE)},
+  pages={145--150},
+  year={2023},
+  organization={IEEE}
+}
     image: ./assets/img/EPCE.gif  
     notes: Oral Presentation  
     
@@ -33,6 +62,14 @@ main:
     authors: <strong>Peng Wang</strong>*, Ruibin Cao, Wenxian Ye 
     conference: Annual Conference of China Electrotechnical Society (ACCES). Sep, 2022.
     pdf: https://github.com/pwang30/pwang30.github.io/blob/119ac80d375bb9b40a7bb440737a309cd64189bb/paper_PDF/Analysis%2Bof%2Bthe%2BInfluence%2Bof%2Bthe%2BSpatial-Temporal%2BCharacteristics%2Bof%2BWind%2BPower%2Band%2BPhotovoltaics%2Bon%2Bthe%2BEconomic%2BDispatch%2Bof%2BIndependent%2BMicrogrids.pdf
+    bibtex: @inproceedings{wang2022analysis,
+  title={Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids},
+  author={Wang, Peng and Cao, Ruibin and Ye, Wenxian},
+  booktitle={Annual Conference of China Electrotechnical Society},
+  pages={754--761},
+  year={2022},
+  organization={Springer}
+}
     image: ./assets/img/ACCES.jpg
     notes: Poster Presentation
     
