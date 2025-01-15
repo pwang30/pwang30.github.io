@@ -31,7 +31,7 @@ main:
     authors: Peng Wang*
     conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
     pdf: https://github.com/pwang30/pwang30.github.io/blob/d28c1fb2336eb3389af1b22f1608ca0e3336baaa/paper_PDF/Low-carbon_scheduling_of_independent_microgrid_considering_uncertainty_of_source_and_load_sides.pdf
-    bibtex: https://github.com/pwang30/pwang30.github.io/blob/b0b0fad454b94d088720cbeaa2205d318e719439/paper_citations/bib_cite_Low-carbon%20scheduling%20of%20independent%20microgrid%20considering%20uncertainty%20of%20source%20and%20load%20sides.rtf
+    bibtex: https://github.com/pwang30/pwang30.github.io/blob/9863070fb2f9809eadf9c8afdea3cef26a9bedc3/paper_citations/bib_cite_Low-carbon%20scheduling%20of%20independent%20microgrid%20considering%20uncertainty%20of%20source%20and%20load%20sides.rtf
     image: ./assets/img/EPCE.gif  
     notes: Oral Presentation  
     
