@@ -17,7 +17,7 @@ main:
     authors: <strong>Peng Wang</strong>, Xi Zhang, Luis Badesa
     conference: 16th IEEE PowerTech 2025. Jun, 2023.
     pdf: https://arxiv.org/pdf/2501.07715
-    image: ./assets/img/fig_two_Modes.jpeg
+    image: ./assets/img/fig_two_Modes.jpg
 
 
   - title: "Low-Carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
