@@ -28,8 +28,9 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 
 ## Thesis
- Research on Time-of-Use Tariff of New Energy Power System Considering Supply and Demand Uncertainties <br>
-  &nbsp; &nbsp; See a brief summary [here](https://github.com/pwang30/master_thesis/blob/d18c05ef3d197c7d94b870650b14df93e7c3d13e/Summary_of_thesis.pdf), detailed thesis [here](https://github.com/pwang30/master_thesis/blob/d18c05ef3d197c7d94b870650b14df93e7c3d13e/Research_on_Time_of_Use_Tariff_of_New_Energy_Power_System_Considering_Source_and_Load_Uncertainties.pdf) (not official).
+- **M.Sc. thesis**: Research on Time-of-Use Tariff of New Energy Power System Considering Supply and Demand Uncertainties <br>
+  &nbsp; &nbsp; See a brief summary [here](https://github.com/pwang30/master_thesis/blob/d18c05ef3d197c7d94b870650b14df93e7c3d13e/Summary_of_thesis.pdf), detailed thesis [here](https://github.com/pwang30/master_thesis/blob/d18c05ef3d197c7d94b870650b14df93e7c3d13e/Research_on_Time_of_Use_Tariff_of_New_Energy_Power_System_Considering_Source_and_Load_Uncertainties.pdf) (not official). <br>
+- **B.Sc. thesis**: Economic Dispatch of Independent Microgrid Considering Uncertainty of Wind and Solar Power
 
 
 
