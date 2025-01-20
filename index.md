@@ -22,7 +22,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## Codes Sharing
 
-- **[Jan. 2025]** The code for solving a Stackelberg game via a bilevel model is on sharing. We consider DSO maximizing profits in the upper level, while VPPs minimizing operating costs in the lower level. Here is the [link](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs.git) for source code in Julia. Here is the [corresponding paper](https://arxiv.org/pdf/2501.07715), which is under review.
+- **[Jan. 2025]** The code for solving a Stackelberg game via a bilevel model is on sharing. We consider DSO maximizing profits in the upper level, while VPPs minimizing operating costs in the lower level. Here is the [link](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs.git) for the source code in Julia. Here is the [corresponding paper](https://arxiv.org/pdf/2501.07715), which is currently under review.
 
 - **[Nov. 2024]** A simple note for unit commitment constrained DC-OPF power system problem is on sharing. Here is the [link](https://github.com/pwang30/OPF_in_DC_system_with_UC.git) for the guidance and source code in Julia.
 
