@@ -23,7 +23,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 ## Codes Sharing
 
 - **[21. Jan. 2025]** A comprehensive note for calculating short circuit current based on IEEE-39 bus system, including symmetrical and unsymmetrical faults. Here is the [link](https://github.com/pwang30/Short_Circuit_Analysis_IEEE39.git) for the source code in Matlab. The Julia version will be available soon.
-- 
+  
 - **[13. Jan. 2025]** The code for solving a Stackelberg game via a bilevel model is on sharing. We consider DSO maximizing profits in the upper level, while VPPs minimizing operating costs in the lower level. Here is the [link](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs.git) for the source code in Julia. Here is the [corresponding paper](https://arxiv.org/pdf/2501.07715), which is currently under review.
 
 - **[05. Nov. 2024]** A simple note for unit commitment constrained DC-OPF power system problem is on sharing. Here is the [link](https://github.com/pwang30/OPF_in_DC_system_with_UC.git) for the guidance and source code in Julia.
