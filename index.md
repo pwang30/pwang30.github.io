@@ -13,6 +13,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## News
 
+- **[10. Feb. 2025]** Welcome You Wu to our lab, studying as an exchange student from [North China Electric Power University](https://zh.m.wikipedia.org/zh-hans/%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6). Her research topic is "Bilevel model application in the power system optimization problems". Hope we can have some interesting productions.
 - **[03. Jan. 2025]** I have an internship in [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/), focusing on the power system.
 - **[01. Oct. 2024]** I am thrilled to start research about power system as a Ph.D. student in UPM. Hope all will go well!
 - **[27. Sep. 2024]** I am excited to have a one-week internship at [State Grid](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China) (Changping, Beijing), under the guidance of [Dr. Xi](https://scholar.google.com/citations?hl=zh-CN&user=r6BeldgAAAAJ), learning the concepts of virtual power plants and games in the power market.
