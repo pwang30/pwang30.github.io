@@ -25,7 +25,7 @@ main:
     bibtex: https://github.com/pwang30/pwang30.github.io/blob/73eb27610fa6ccd57ee889b241e8935136a36653/papaer_citaations/bib_cite_Analyzing%20the%20Role%20of%20the%20DSO%20in%20Electricity%20Trading%20of%20VPPs%20via%20a%20Stackelberg%20Game%20Model.txt
     image: ./assets/img/fig_two_Modes.jpg
     code: https://github.com/pwang30/Code_of_bilevel_DSO_VPPs.git
-    notes: Under Review
+    notes: Accepted
 
   - title: "Low-Carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
     authors: Peng Wang*
