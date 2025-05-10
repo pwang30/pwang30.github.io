@@ -4,7 +4,7 @@ main:
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: IET Generation, Transmission & Distribution. Dec, 2023.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/gtd2.13052
-    bibtex: https://github.com/pwang30/pwang30.github.io/blob/12b4cab36d59e3fa4b02a46d4a1ef91e72742d63/papaer_citaations/bib_cite_Peak-valley%20period%20partition%20and%20abnormal%20time%20correction%20for%20time-of-use%20tariffs%20under%20daily%20load%20curves%20based%20on%20improved%20fuzzy%20c-means.txt
+    #bibtex: https://github.com/pwang30/pwang30.github.io/blob/12b4cab36d59e3fa4b02a46d4a1ef91e72742d63/papaer_citaations/bib_cite_Peak-valley%20period%20partition%20and%20abnormal%20time%20correction%20for%20time-of-use%20tariffs%20under%20daily%20load%20curves%20based%20on%20improved%20fuzzy%20c-means.txt
     image: ./assets/img/IET,AP.jpg
 
 
@@ -14,7 +14,7 @@ main:
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: Engineering Letters. Dec, 2023.
     pdf: https://www.engineeringletters.com/issues_v31/issue_4/EL_31_4_21.pdf
-    bibtex: https://github.com/pwang30/pwang30.github.io/blob/d6b0f39c0ef5acf153d07b2fa385f1cb0ba73728/papaer_citaations/bib_cite_A%20Modified%20K-means%20Clustering%20Algorithm%20Based%20on%20FMF-GS-DD..txt
+    #bibtex: https://github.com/pwang30/pwang30.github.io/blob/d6b0f39c0ef5acf153d07b2fa385f1cb0ba73728/papaer_citaations/bib_cite_A%20Modified%20K-means%20Clustering%20Algorithm%20Based%20on%20FMF-GS-DD..txt
     image: ./assets/img/EL,P_S_F_V.jpeg
 
 
@@ -22,7 +22,7 @@ main:
     authors: <strong>Peng Wang</strong>*, Xi Zhang, Luis Badesa
     conference: 16th IEEE PowerTech. Jun, 2025.
     pdf: https://arxiv.org/pdf/2501.07715
-    bibtex: https://github.com/pwang30/pwang30.github.io/blob/73eb27610fa6ccd57ee889b241e8935136a36653/papaer_citaations/bib_cite_Analyzing%20the%20Role%20of%20the%20DSO%20in%20Electricity%20Trading%20of%20VPPs%20via%20a%20Stackelberg%20Game%20Model.txt
+    #bibtex: https://github.com/pwang30/pwang30.github.io/blob/73eb27610fa6ccd57ee889b241e8935136a36653/papaer_citaations/bib_cite_Analyzing%20the%20Role%20of%20the%20DSO%20in%20Electricity%20Trading%20of%20VPPs%20via%20a%20Stackelberg%20Game%20Model.txt
     image: ./assets/img/fig_two_Modes.jpg
     code: https://github.com/pwang30/Code_of_bilevel_DSO_VPPs.git
     notes: Accepted
@@ -30,8 +30,8 @@ main:
   - title: "Low-Carbon Scheduling of Independent Microgrid Considering Uncertainty of Source and Load Sides"
     authors: Peng Wang*
     conference: 2023 2nd Asia Conference on Electrical, Power and Computer Engineering (EPCE). Apr, 2023.
-    pdf: https://github.com/pwang30/pwang30.github.io/blob/d28c1fb2336eb3389af1b22f1608ca0e3336baaa/paper_PDF/Low-carbon_scheduling_of_independent_microgrid_considering_uncertainty_of_source_and_load_sides.pdf
-    bibtex: https://github.com/pwang30/pwang30.github.io/blob/07dd7a59fe106a7d965319bcaa779859dd8fd077/papaer_citaations/bib_cite_Low-carbon%20scheduling%20of%20independent%20microgrid%20considering%20uncertainty%20of%20source%20and%20load%20sides.txt
+    #pdf: https://github.com/pwang30/pwang30.github.io/blob/d28c1fb2336eb3389af1b22f1608ca0e3336baaa/paper_PDF/Low-carbon_scheduling_of_independent_microgrid_considering_uncertainty_of_source_and_load_sides.pdf
+    #bibtex: https://github.com/pwang30/pwang30.github.io/blob/07dd7a59fe106a7d965319bcaa779859dd8fd077/papaer_citaations/bib_cite_Low-carbon%20scheduling%20of%20independent%20microgrid%20considering%20uncertainty%20of%20source%20and%20load%20sides.txt
     image: ./assets/img/EPCE.gif  
     notes: Oral Presentation  
     
@@ -39,8 +39,8 @@ main:
   - title: "Analysis of the Influence of the Spatial-Temporal Characteristics of Wind Power and Photovoltaics on the Economic Dispatch of Independent Microgrids"
     authors: <strong>Peng Wang</strong>*, Ruibin Cao, Wenxian Ye 
     conference: Annual Conference of China Electrotechnical Society (ACCES). Sep, 2022.
-    pdf: https://github.com/pwang30/pwang30.github.io/blob/119ac80d375bb9b40a7bb440737a309cd64189bb/paper_PDF/Analysis%2Bof%2Bthe%2BInfluence%2Bof%2Bthe%2BSpatial-Temporal%2BCharacteristics%2Bof%2BWind%2BPower%2Band%2BPhotovoltaics%2Bon%2Bthe%2BEconomic%2BDispatch%2Bof%2BIndependent%2BMicrogrids.pdf
-    bibtex: https://github.com/pwang30/pwang30.github.io/blob/56073936624efc46c3a0f98722618c00bb39387d/papaer_citaations/bib_cite_Analysis%20of%20the%20Influence%20of%20the%20Spatial-Temporal%20Characteristics%20of%20Wind%20Power%20and%20Photovoltaics%20on%20the%20Economic%20Dispatch%20of%20Independent%20Microgrids.txt
+    #pdf: https://github.com/pwang30/pwang30.github.io/blob/119ac80d375bb9b40a7bb440737a309cd64189bb/paper_PDF/Analysis%2Bof%2Bthe%2BInfluence%2Bof%2Bthe%2BSpatial-Temporal%2BCharacteristics%2Bof%2BWind%2BPower%2Band%2BPhotovoltaics%2Bon%2Bthe%2BEconomic%2BDispatch%2Bof%2BIndependent%2BMicrogrids.pdf
+    #bibtex: https://github.com/pwang30/pwang30.github.io/blob/56073936624efc46c3a0f98722618c00bb39387d/papaer_citaations/bib_cite_Analysis%20of%20the%20Influence%20of%20the%20Spatial-Temporal%20Characteristics%20of%20Wind%20Power%20and%20Photovoltaics%20on%20the%20Economic%20Dispatch%20of%20Independent%20Microgrids.txt
     image: ./assets/img/ACCES.jpg
     notes: Poster Presentation
     
