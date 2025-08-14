@@ -14,7 +14,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 ## News
 
 - **[14. Aug. 2025]** Our paper titled "Imperfect Competition in Markets for Short-Circuit Current Services" is now available in arXiv, the first work for checking the market power in Short-Circuit Current (SCC) services. Thanks for the time and patience of my supervisor Luis, who contributed a lot to this work! The resources associated can be found below.
-- 
+
 - **[01. Apr. 2025]** Our paper titled "Analyzing the Role of the DSO in Electricity Trading of VPPs via a Stackelberg Game Model" for 16th IEEE PowerTech Conference in Kiel has been accepted.
   
 - **[10. Feb. 2025]** Welcome You Wu to our lab, studying as an exchange student from [North China Electric Power University](https://zh.m.wikipedia.org/zh-hans/%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6). Her research topic is "Bilevel model application in the power market problems: Specifically for Stackelberg games". Hope we can have some interesting productions. (Supervision: 10. Feb. 2025-30. Jun. 2025)
