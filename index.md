@@ -29,6 +29,8 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## Codes Sharing
 
+- **[14. Aug. 2025]** The code for examining market power in Short-Circuit Current (SCC) services is now available. Here is the [link](https://github.com/pwang30/SCC_UC_Bilevel) for the source code in Julia. The corresponding paper is preprinted [here](https://arxiv.org/abs/2508.09425).
+
 - **[21. Jan. 2025]** A comprehensive note for calculating short circuit current based on IEEE-39 bus system, including symmetrical and unsymmetrical faults. Here is the [link](https://github.com/pwang30/Short_Circuit_Analysis_IEEE39.git) for the source code in Matlab. The Julia version will be available soon.
   
 - **[13. Jan. 2025]** The code for solving a Stackelberg game via a bilevel model is on sharing. We consider DSO maximizing profits in the upper level, while VPPs minimizing operating costs in the lower level. Here is the [link](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs.git) for the source code in Julia. Here is the [corresponding paper](https://arxiv.org/pdf/2501.07715), which is currently under review.
