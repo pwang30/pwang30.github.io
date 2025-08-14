@@ -6,6 +6,8 @@ main:
     pdf: https://arxiv.org/pdf/2508.09425
     #bibtex: https://github.com/pwang30/pwang30.github.io/blob/12b4cab36d59e3fa4b02a46d4a1ef91e72742d63/papaer_citaations/bib_cite_Peak-valley%20period%20partition%20and%20abnormal%20time%20correction%20for%20time-of-use%20tariffs%20under%20daily%20load%20curves%20based%20on%20improved%20fuzzy%20c-means.txt
     image: ./assets/img/SCC_MPEC.png
+    code: https://github.com/pwang30/SCC_UC_Bilevel
+    notes: Under Review
   
   
   - title: "Peak‐Valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means"
