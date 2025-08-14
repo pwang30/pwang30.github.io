@@ -1,5 +1,13 @@
 main:
 
+  - title: "Imperfect Competition in Markets for Short-Circuit Current Services"
+    authors: <strong>Peng Wang</strong>, Luis Badesa*
+    conference: arXiv. Aug, 2025.
+    pdf: https://arxiv.org/pdf/2508.09425
+    #bibtex: https://github.com/pwang30/pwang30.github.io/blob/12b4cab36d59e3fa4b02a46d4a1ef91e72742d63/papaer_citaations/bib_cite_Peak-valley%20period%20partition%20and%20abnormal%20time%20correction%20for%20time-of-use%20tariffs%20under%20daily%20load%20curves%20based%20on%20improved%20fuzzy%20c-means.txt
+    image: ./assets/img/IET,AP.jpg
+  
+  
   - title: "Peak‐Valley Period Partition and Abnormal Time Correction for Time‐of‐Use Tariffs Under Daily Load Curves Based on Improved Fuzzy C‐means"
     authors: <strong>Peng Wang</strong>, Yiwei Ma*, Zhiqi Ling, Genhong Luo
     conference: IET Generation, Transmission & Distribution. Dec, 2023.
@@ -19,7 +27,7 @@ main:
 
 
   - title: "Analyzing the Role of the DSO in Electricity Trading of VPPs via a Stackelberg Game Model"
-    authors: <strong>Peng Wang</strong>*, Xi Zhang, Luis Badesa
+    authors: <strong>Peng Wang</strong>, Xi Zhang, Luis Badesa
     conference: 16th IEEE PowerTech. Jun, 2025.
     pdf: https://arxiv.org/pdf/2501.07715
     #bibtex: https://github.com/pwang30/pwang30.github.io/blob/73eb27610fa6ccd57ee889b241e8935136a36653/papaer_citaations/bib_cite_Analyzing%20the%20Role%20of%20the%20DSO%20in%20Electricity%20Trading%20of%20VPPs%20via%20a%20Stackelberg%20Game%20Model.txt
