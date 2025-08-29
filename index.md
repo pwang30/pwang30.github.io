@@ -13,6 +13,8 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## News
 
+- **[29. Aug. 2025]** My paper titled "Analyzing the Impact of Strategic Bidding on the Reserve Capacity via a Bi-Level Model" for 2026 1st IEEE Power & Energy Society (PES) International Meeting (IM) has been accepted.
+
 - **[14. Aug. 2025]** Our paper titled "Imperfect Competition in Markets for Short-Circuit Current Services" is now available in arXiv, the first work for checking the market power in Short-Circuit Current (SCC) services. Thanks for the time and patience of my supervisor Luis, who contributed a lot to this work! The resources associated can be found below.
 
 - **[01. Apr. 2025]** Our paper titled "Analyzing the Role of the DSO in Electricity Trading of VPPs via a Stackelberg Game Model" for 16th IEEE PowerTech Conference in Kiel has been accepted.
