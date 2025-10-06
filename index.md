@@ -33,6 +33,8 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## Codes Sharing
 
+- **[06. Oct. 2025]** The code for pricing Short-Circuit Current (SCC) services via state-of-art methods and primal-dual formulation proposed in relevant work is now available. Here is the [link](https://github.com/pwang30/Pricing_SCC_Services_by_Primal_Dual_Formulation) for the source code in Julia. The corresponding paper is preprinted [here](https://arxiv.org/abs/2508.09425).
+  
 - **[14. Aug. 2025]** The code for examining market power in Short-Circuit Current (SCC) services is now available. Here is the [link](https://github.com/pwang30/SCC_UC_Bilevel) for the source code in Julia. The corresponding paper is preprinted [here](https://arxiv.org/abs/2508.09425).
 
 - **[21. Jan. 2025]** A comprehensive note for calculating short circuit current based on IEEE-39 bus system, including symmetrical and unsymmetrical faults. Here is the [link](https://github.com/pwang30/Short_Circuit_Analysis_IEEE39.git) for the source code in Matlab. The Julia version will be available soon.
