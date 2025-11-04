@@ -41,7 +41,7 @@ main:
     conference: 2026 IEEE Power & Energy Society General Meeting. July, 2026.
     pdf: https://arxiv.org/pdf/2511.00296
     #bibtex: https://github.com/pwang30/pwang30.github.io/blob/73eb27610fa6ccd57ee889b241e8935136a36653/papaer_citaations/bib_cite_Analyzing%20the%20Role%20of%20the%20DSO%20in%20Electricity%20Trading%20of%20VPPs%20via%20a%20Stackelberg%20Game%20Model.txt
-    image: ./assets/img/PESGN.png
+    image: ./assets/img/PESGN.jpg
     notes: Under Review
     
   - title: "Analyzing the Impact of Strategic Bidding on the Reserve Capacity via a Bi-Level Model"
