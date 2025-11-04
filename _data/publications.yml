@@ -2,7 +2,7 @@ main:
 
   - title: "Pricing Short-Circuit Current via a Primal-Dual Formulation for Preserving Integrality Constraints"
     authors: <strong>Peng Wang</strong>, Luis Badesa*
-    conference: arXiv. Oct, 2025.
+    conference: Power Systems Computation Conference 2026
     pdf: https://arxiv.org/pdf/2510.05293
     #bibtex: https://github.com/pwang30/pwang30.github.io/blob/12b4cab36d59e3fa4b02a46d4a1ef91e72742d63/papaer_citaations/bib_cite_Peak-valley%20period%20partition%20and%20abnormal%20time%20correction%20for%20time-of-use%20tariffs%20under%20daily%20load%20curves%20based%20on%20improved%20fuzzy%20c-means.txt
     image: ./assets/img/P-D_pricing_SCC.png
@@ -11,7 +11,7 @@ main:
     
   - title: "Imperfect Competition in Markets for Short-Circuit Current Services"
     authors: <strong>Peng Wang</strong>, Luis Badesa*
-    conference: arXiv. Aug, 2025.
+    conference: Sustainable Energy, Grids and Networks (SEGAN)
     pdf: https://arxiv.org/pdf/2508.09425
     #bibtex: https://github.com/pwang30/pwang30.github.io/blob/12b4cab36d59e3fa4b02a46d4a1ef91e72742d63/papaer_citaations/bib_cite_Peak-valley%20period%20partition%20and%20abnormal%20time%20correction%20for%20time-of-use%20tariffs%20under%20daily%20load%20curves%20based%20on%20improved%20fuzzy%20c-means.txt
     image: ./assets/img/SCC_MPEC.png
@@ -36,6 +36,14 @@ main:
     #bibtex: https://github.com/pwang30/pwang30.github.io/blob/d6b0f39c0ef5acf153d07b2fa385f1cb0ba73728/papaer_citaations/bib_cite_A%20Modified%20K-means%20Clustering%20Algorithm%20Based%20on%20FMF-GS-DD..txt
     image: ./assets/img/EL,P_S_F_V.jpeg
 
+  - title: "Analyzing the Impact of Demand Response on Short-Circuit Current via a Unit Commitment Model"
+    authors: <strong>Peng Wang</strong>, Zhengmao Li, Luis Badesa*
+    conference: 2026 IEEE Power & Energy Society General Meeting. July, 2026.
+    pdf: https://arxiv.org/pdf/2511.00296
+    #bibtex: https://github.com/pwang30/pwang30.github.io/blob/73eb27610fa6ccd57ee889b241e8935136a36653/papaer_citaations/bib_cite_Analyzing%20the%20Role%20of%20the%20DSO%20in%20Electricity%20Trading%20of%20VPPs%20via%20a%20Stackelberg%20Game%20Model.txt
+    image: ./assets/img/PESGN.png
+    notes: Under Review
+    
   - title: "Analyzing the Impact of Strategic Bidding on the Reserve Capacity via a Bi-Level Model"
     authors: ...,<strong>Peng Wang*</strong>,...
     conference: 2026 1st IEEE Power & Energy Society International Meeting. Jan, 2026.
