@@ -12,8 +12,6 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 - **Clustering algorithm:** Fuzzy c-means, Improved clustering methods
 
 ## News
-
-- **[06. Oct. 2025]** Our [paper](https://arxiv.org/pdf/2510.05293) titled "Pricing Short-Circuit Current via a Primal-Dual Formulation for Preserving Integrality Constraints" is now available in arXiv. It is a work for pricing Short-Circuit Current (SCC) services with a new method, and we also analyze the pitfalls of existing pricing methods. Thanks, again, for the time and patience of my supervisor Luis, who contributed a lot to this work! The resources associated can be found below.
   
 - **[29. Aug. 2025]** My [paper](https://arxiv.org/pdf/2506.20493) titled "Analyzing the Impact of Strategic Bidding on the Reserve Capacity via a Bi-Level Model" for 2026 1st IEEE Power & Energy Society (PES) International Meeting (IM) has been accepted.
 
