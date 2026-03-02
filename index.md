@@ -12,6 +12,8 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 - **Clustering algorithm:** Fuzzy c-means, Improved clustering methods
 
 ## News
+
+- **[02. Mar. 2026]** Our [paper](https://arxiv.org/abs/2511.00296) titled "Analyzing the Impact of Demand Response on Short-Circuit Current via a Unit Commitment Model" for 2026 IEEE Power & Energy Society General Meeting has been accepted.
   
 - **[29. Aug. 2025]** My [paper](https://arxiv.org/pdf/2506.20493) titled "Analyzing the Impact of Strategic Bidding on the Reserve Capacity via a Bi-Level Model" for 2026 1st IEEE Power & Energy Society (PES) International Meeting (IM) has been accepted.
 
