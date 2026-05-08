@@ -8,7 +8,7 @@ main:
     image: ./assets/img/SCC_PD_pricing.png
     code: https://github.com/pwang30/Pricing_SCC_Services_by_Primal_Dual_Formulation
     slides: ./paper_PDF/Pricing_SCC.pdf
-    #notes: Under Review
+    notes: Under Review
     
   - title: "Imperfect Competition in Markets for Short-Circuit Current Services"
     authors: <strong>Peng Wang</strong>, Luis Badesa*
