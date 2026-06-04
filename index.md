@@ -13,7 +13,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## News
 
-- **[04. Jun. 2026]** Excited to share that I am selected as a travel grant recipient to [EEEIC 2026](https://www.eeeic.net/) at Lisbon. I will present our recent work there on markets for short-circuit current as an ancillary service.
+- **[04. Jun. 2026]** Excited to share that I am selected as a travel grant recipient to [EEEIC 2026](https://www.eeeic.net/) at Lisbon. I will present our recent work there on markets for short-circuit current as an ancillary service. Here are the [slides](https://www.eeeic.net/).
 
 - **[10. Apr. 2026]** Our [paper](https://arxiv.org/abs/2510.05293) titled "Pricing Short-Circuit Current via a Primal-Dual Formulation for Preserving Integrality Constraints" is now available in arXiv, the first work for pricing Short-Circuit Current (SCC) services via a Primal-Dual formulation. Thanks for the time and patience of my supervisor Luis, who contributed a lot to this work! The resources associated can be found below.
 
