@@ -57,7 +57,7 @@ main:
     code: https://github.com/pwang30/Analyzing_the_Impact_of_DR_on_SCC_Level
     slides: ./paper_PDF/PESIM2026_Peng.pdf
     poster: ./paper_PDF/PESIM2026_Peng.pdf
-    notes: Poster Presentation
+    notes: Oral Presentation
     
   - title: "Analyzing the Impact of Strategic Bidding on the Reserve Capacity via a Bi-Level Model"
     authors: ...,<strong>Peng Wang*</strong>,...
