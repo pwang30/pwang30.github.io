@@ -15,7 +15,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 - **[04. Jun. 2026]** Excited to share that I am selected as a travel grant recipient to [EEEIC 2026](https://www.eeeic.net/) at Lisbon, from 29.Jun-02.July. I will present our recent work there on markets for short-circuit current as an ancillary service. Here are the [slides](https://www.eeeic.net/).
 
-- **[11. Apr. 2026]** Excited to share that I am selected to study at summer school [SESM26](https://sesm26.sciencesconf.org/) at Sophia Antipolis, from 15.Jun-19.Jun. 
+- **[11. Apr. 2026]** Excited to share that I am selected to study at summer school [SESM26](https://sesm26.sciencesconf.org/) at Sophia Antipolis, from 15.Jun-19.Jun. Here is the <a href="assets/files/SESM summer school_Poster.pdf" download>poster</a>. 
 
 - **[10. Apr. 2026]** Our [paper](https://arxiv.org/abs/2510.05293) titled "Pricing Short-Circuit Current via a Primal-Dual Formulation for Preserving Integrality Constraints" is now available in arXiv, the first work for pricing Short-Circuit Current (SCC) services via a Primal-Dual formulation. Thanks for the time and patience of my supervisor Luis, who contributed a lot to this work! The resources associated can be found below.
 
