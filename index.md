@@ -13,7 +13,7 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## News
 
-- **[04. Jun. 2026]** Excited to share that I am selected as a travel grant recipient to [EEEIC 2026](https://www.eeeic.net/) at Lisbon, from 29.Jun-02.July. I will present our recent work there on markets for short-circuit current as an ancillary service. Here are the [slides](https://github.com/pwang30/pwang30.github.io/blob/main/assets/files/EEEIC2026_Peng_SCC_markets.pdf).
+- **[04. Jun. 2026]** Excited to share that I am selected as a travel grant recipient to [EEEIC 2026](https://www.eeeic.net/) at Lisbon, from 29.Jun-02.July. I will present our recent work there on markets for short-circuit current as an ancillary service. Here are the [slides](https://github.com/pwang30/Slides-for-EEEIC-2026.git).
 
 - **[11. Apr. 2026]** Excited to share that I am selected to study at summer school [SESM26](https://sesm26.sciencesconf.org/) at Sophia Antipolis, from 15.Jun-19.Jun. Here is the <a href="assets/files/SESM summer school_Poster.pdf" download>poster</a>. 
 
