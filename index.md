@@ -13,6 +13,8 @@ I am a Ph.D. student in Power System at [Technical University of Madrid (UPM)](h
 
 ## News
 
+- **[11. Sep. 2026]** Our [paper](https://arxiv.org/abs/2609.11436v1) titled "A Primal-Dual Formulation for Pricing Static Voltage Stability Services within a Unit Commitment Model" is now available in arXiv, the first work for pricing static voltage stability services using a primal-dual formulation. It is one step beyond "Shadow Pricing of Static Voltage Stability Services within Unit Commitment for Inverter-Dominated Power Systems" paper, a development of how to design revenue-adequate prices for service-providing units. Thanks for the time and patience of my supervisor Luis, who contributed a lot to this work! The resources associated can be found below.
+
 - **[06. Jun. 2026]** Our [paper](https://arxiv.org/abs/2607.05209) titled "Shadow Pricing of Static Voltage Stability Services within Unit Commitment for Inverter-Dominated Power Systems" is now available in arXiv, the first work for pricing static voltage stability services including reactive power support and short-circuit ratio enhancement. Thanks for the time and patience of my supervisor Luis, who contributed a lot to this work! The resources associated can be found below.
 
 - **[04. Jun. 2026]** Excited to share that I am selected as a travel grant recipient to [EEEIC 2026](https://www.eeeic.net/) at Lisbon, from 29.Jun-02.July. I will present our recent work there on markets for short-circuit current as an ancillary service. Here are the <a href="assets/files/EEEIC2026_Peng_SCC_markets.pdf" download>slides</a>.
